@@ -81,9 +81,7 @@ KerberosProject/
 │   ├── ServiceTicket.java        // Represents the service ticket object
 │   ├── Client.java               // Represents the client that interacts with AS and TGS
 │   ├── Service.java              // The service that validates service tickets
-│   └── Main.java                 // Main class to simulate the Kerberos flow
-│
-├── lib/                          // (Optional) Any third-party libraries you may use
+│   └── Main.java                 // Main class to simulate the Kerberos flow                   
 │
 └── README.md                     // Project description and instructions
 ```
